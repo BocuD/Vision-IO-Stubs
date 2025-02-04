@@ -1,0 +1,14 @@
+LIBRARY VisionUSBIO
+EXPORTS
+    NESiCAReaderCancelRead
+    NESiCAReaderGetID
+    NESiCAReaderGetResult
+    NESiCAReaderGetStatus
+    NESiCAReaderIsError
+    NESiCAReaderRead
+
+    VisionUSBGetDeviceVersion
+    VisionUSBIOClose
+    VisionUSBIOGetStatus
+    VisionUSBIOOpen
+    VisionUSBIOUpdate

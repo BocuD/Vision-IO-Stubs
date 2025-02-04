@@ -1,0 +1,5 @@
+LIBRARY VisionUSBIO
+EXPORTS
+    StartWatchingDevice
+    EndWatchingDevice
+    IsTouchPanelEnable
